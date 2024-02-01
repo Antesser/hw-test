@@ -1,2 +1,2 @@
-github.com/ozgio/strutil v0.4.0 h1:HozVsZHFVRH82AhUpupupO3i8enhp+IZGg16rlyr1Jg=
-github.com/ozgio/strutil v0.4.0/go.mod h1:gM0EGw2oLA9wJoqp0+ni5PZplT0GOpj/DqUE96eDai8=
+golang.org/x/example/hello v0.0.0-20231013143937-1d6d2400d402 h1:DinvsIoyEHhvctIjuq3/KV9tzY9pyZoTpBsZPzumMMc=
+golang.org/x/example/hello v0.0.0-20231013143937-1d6d2400d402/go.mod h1:UhUKOXx5fMcLZxwL20DUrWWBBoRYG9Jvc8FiwZhRHCI=
